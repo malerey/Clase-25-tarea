@@ -8,6 +8,8 @@
 
 4. Hacer una funcion obtenerTotal que reciba un precio y devuelva el total, chequeando los valores de las siguientes variables  y utilizando las funciones obtenidas anteriormente
 
+**Nota:** Si te resulta mas facil, podes modificar las funciones 1, 2 y 3 para que en lugar de devolverte el subtotal modificado, te devuelvan solo el porcentaje de descuento, de recargo y de gasto de envio. Cualquiera de las dos maneras sirve. 
+
 ```js
 let tieneDescuento = false
 let tieneRecargo = true
